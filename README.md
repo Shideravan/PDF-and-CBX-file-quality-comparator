@@ -10,4 +10,4 @@ Com isso é possível ter uma ferramenta que compare arquivos de scan de publica
 Para utilizar será necessário uma versão recente do Python instalada (3.0 ou maior)
 Execute no terminal com:
 
-python file_comparator.py
+``python file_comparator.py``
