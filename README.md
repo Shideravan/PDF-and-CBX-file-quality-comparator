@@ -7,7 +7,7 @@ Permite que sejam usadas mais de uma pasta para comparar a qualidade dos arquivo
 
 Com isso é possível ter uma ferramenta que compare arquivos de scan de publicações e determine mais facilmente quais deles possuem melhor qualidade.
 
-Para utilizar será necessário uma versão recente do Python instalada (3.0 ou maior)
-Execute no terminal com:
+Para utilizar será necessário uma versão recente do Python instalada (3.0 ou maior).
 
+Execute no terminal com:
 ``python file_comparator.py``
